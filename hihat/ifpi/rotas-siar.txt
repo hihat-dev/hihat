@@ -1,0 +1,7 @@
+siar.capir.ifpi.edu.br/doc/uploads - informações sobre compras do Campus
+
+http://siar.capir.ifpi.edu.br/admin/app/load_aluno.php - Dados de todos os alunos(eu acho), matricula, nome completo, data de nascimento e curso
+
+http://siar.capir.ifpi.edu.br/project/clientes/app/load.php - Não sei que dados são esses porém suponho que sejam empresas que prestaram ajudas financeiras a instituição
+
+http://siar.capir.ifpi.edu.br/admin/app/load.php - Dados de requisições de algo na instiruição, inclui matricula, nomes completos e cursos

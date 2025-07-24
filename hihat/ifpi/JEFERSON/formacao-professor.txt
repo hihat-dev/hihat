@@ -1,0 +1,128 @@
+Formação acadêmica / titulação
+
+2025
+Doutorado em andamento em Biotecnologia.
+Universidade Federal do Delta do Parnaíba, UFDPar, Brasil.
+Orientador: Ariel Soares Teles.
+
+2020 - 2023
+Mestrado em Ciência da Computação.
+Universidade Estadual do Ceará, UECE, Brasil.
+Título: Uma Metodologia para o Desenvolvimento de Chatbots de Domínio Fechado baseados em RASA, Ano de Obtenção: 2023.
+Orientador: José Everardo Bessa Maia.
+Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.
+Palavras-chave: PLN; RASA; Chatbot.
+Grande área: Ciências Exatas e da Terra.
+
+2019 - 2020
+Especialização em MBA em Análise de Dados com BI e Big Data (Carga Horária: 360h).
+Universidade Cruzeiro do Sul, UNICSUL, Brasil.
+Título: Mineração de Textos: Análise de Desempenho de Algoritmos para Classificação Automática de Reviews de Produtos em Textos da Língua Portuguesa.
+Orientador: Alberto Messias da Costa Souza.
+
+2014 - 2018
+Graduação em Ciência da Computação.
+Universidade Estadual do Piauí, UESPI, Brasil.
+Orientador: Francisco Assis Ricarte Neto.
+
+2013 - 2015
+Curso técnico/profissionalizante em Técnico em Multimeios Didáticos.
+Instituto Federal do Piauí, IFPI, Brasil.
+
+2010 - 2012
+Ensino Médio (2º grau).
+Unidade Escolar José Narciso da Rocha Filho, JN, Brasil.
+
+Formação Complementar
+
+2020
+Extensão universitária em Machine Learning (Carga horária: 55h).
+Instituto Desenvolvimento, Estratégia e Conhecimento, IDESCO, Brasil.
+
+2020
+Extensão universitária em Bootcamp Analista de Machine Learning (Carga horária: 148h).
+Instituto de Gestão em Tecnologia da Informação, IGTI, Brasil.
+
+2020
+Curso Completo de Desenvolvimento Web - Crie 6 projetos (Carga horária: 34h).
+Udemy, UDEMY, Brasil.
+
+2015
+Hacker na prática: Invasão de sites utilizando SQL Injection / Desenvolvimento (Carga horária: 50h).
+Universidade Estadual do Piauí, UESPI, Brasil.
+
+2011 - 2012
+Designer Gráfico (Carga horária: 124h).
+Info Future, INF, Brasil.
+
+Atuação Profissional
+
+Escola Conquer, CONQUER, Brasil
+2022 - Atual
+Vínculo: Celetista
+Enquadramento Funcional: Desenvolvedor Mobile
+Carga horária: 48h
+Atividades: Desenvolvimento do aplicativo de streaming da escola Conquer; aplicação da metodologia Scrum; participação em reuniões periódicas; execução de tarefas em pares; manutenção de boards; desenvolvimento com HTML, CSS, JavaScript e TypeScript (React Native e React); uso do Firebase.
+
+Unidade Escolar José Narciso da Rocha Filho, JN, Brasil
+2023 - Atual
+Vínculo: Celetista
+Enquadramento Funcional: Professor Tutor
+Carga horária: 20h
+Atividades: Professor Tutor do curso de desenvolvimento de sistemas.
+
+Escola de Saúde Pública do Ceará, ESP/CE, Brasil
+2021 - 2022
+Vínculo: Bolsista
+Enquadramento Funcional: Bolsista de Desenvolvimento Técnico e Inovação
+Carga horária: 40h
+Atividades: Desenvolvedor front-end nos projetos Mapa Digital da Saúde e Soluções Digitais para Educação; aplicação de metodologia Scrum; reuniões periódicas; elaboração de histórias de usuário; desenvolvimento com HTML, CSS, JavaScript (React Native, Vue.js).
+
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil
+2020 - 2021
+Vínculo: Bolsista
+Regime: Dedicação exclusiva
+Atividades: Bolsista do programa de mestrado em Ciência da Computação (PPGCC) - UECE; linhas de pesquisa em algoritmos, otimização e inteligência computacional com ênfase em agentes de conversação.
+
+Credishop SA, CDS, Brasil
+2018 - 2020
+Vínculo: Colaborador
+Enquadramento Funcional: Suporte Técnico Externo
+Carga horária: 44h
+Regime: Dedicação exclusiva
+Atividades: Atendimento a pessoas jurídicas; prestação de serviços e atendimento ao cliente; instalação e manutenção de máquinas POS.
+
+Instituto Federal do Piauí, IFPI, Brasil
+2015 - 2017
+Vínculo: Bolsista
+Enquadramento Funcional: Estagiário
+Carga horária: 20h
+Atividades: Manutenção de computadores; estruturação de redes; manutenção de impressoras; atendimento a alunos; suporte em novas tecnologias.
+
+Universidade Estadual do Piauí, UESPI, Brasil
+2018
+Vínculo: Bolsista
+Enquadramento Funcional: Monitor de Engenharia de Software
+Carga horária: 60h
+Atividades: Auxílio aos alunos; revisão de conteúdos; orientação de projetos de pesquisa.
+
+Projetos de Pesquisa
+
+2024 - Atual
+Letras Compartilhadas
+Descrição: Plataforma online de resolução de dúvidas e correção de redações de forma colaborativa para alunos do ensino médio da Escola Ceti José Narciso.
+Situação: Em andamento
+Natureza: Pesquisa
+Alunos envolvidos: Técnico de nível médio (4)
+Coordenador: Jéferson do Nascimento Soares
+
+Idiomas
+
+Português
+Compreende bem, fala bem, lê bem, escreve bem.
+
+Espanhol
+Compreende pouco, fala pouco, lê pouco, escreve pouco.
+
+Inglês
+Compreende pouco, fala pouco, lê pouco, escreve pouco.

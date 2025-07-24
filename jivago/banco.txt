@@ -1,0 +1,48 @@
+1. π nome ( σ departamento = 'Computacao' ( Aluno ) )
+
+2. π nome, salario ( σ departamento = 'Fisica' ( Professor ) )
+
+3. π titulo ( σ departamento = 'Biologia' ( Curso ) )
+
+4. π nome ( σ semestre = 'Primavera' ∧ ano = 2010 ( Leciona ⨝ Professor ) )
+
+5. π nome ( σ nota = 'A' ( Matricula ⨝ Aluno ) )
+
+6. π titulo ( Curso ⨝ Pre_requisisto )
+
+7. π nome (Professor ⨝ (Orientador ⨝ (σ departamento='Eng. Eletrica' Aluno)))
+
+8. π id, nome ( Aluno ) - π id_aluno, nome ( Matricula ⨝ Aluno )
+
+9. π nome, salario ( σ salario = 95000 ( Professor ) )
+
+10. π titulo ( σ predio = 'Watson' ( Turma ) ⨝ Curso )
+
+11. π nome ( σ total_creditos > 100 ( Aluno ) )
+
+12. π nome_departamento ( σ orcamento > 90000 ( Departamento ) )
+
+13. π nome (σ id_professor=id_professor (Orientador ⨝ Aluno))
+
+14. π Aluno.nome, Curso.titulo, Professor.nome (
+  σ Matricula.id_curso = Turma.id_curso ∧
+    Matricula.id_turma = Turma.id_turma ∧
+    Matricula.semestre = Turma.semestre ∧
+    Matricula.ano = Turma.ano ∧
+    Leciona.id_curso = Turma.id_curso ∧
+    Leciona.id_turma = Turma.id_turma ∧
+    Leciona.semestre = Turma.semestre ∧
+    Leciona.ano = Turma.ano ∧
+    Leciona.id_professor = Professor.id ∧
+    Matricula.id_curso = Curso.id_curso ∧
+    Matricula.id_aluno = Aluno.id
+  (
+    Aluno ⨯ Matricula ⨯ Turma ⨯ Curso ⨯ Leciona ⨯ Professor
+  )
+)
+
+
+15. π nome (
+  Aluno ⨝ Matricula ⨝ Curso ⨝ Pre_requisito
+)
+

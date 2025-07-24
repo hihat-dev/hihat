@@ -1,0 +1,15 @@
+curl -X POST http://siar.capir.ifpi.edu.br/gravarsolicitacao.php \
+  -H "Cookie: _ga=GA1.1.1352962412.1750985423; _ga_J2S60SKDWH=GS2.1.s1751678354\$o2\$g1\$t1751678453\$j60\$l0\$h0; _ga_LL9FR1PRD8=GS2.1.s1751001722\$o3\$g1\$t1751002260\$j60\$l0\$h0; PHPSESSID=e30f540208a402deaa6e4ebee22d4474" \
+  -d "matricula=2024116BADM0001" \
+  -d "refeicao=ALMOCO" \
+  -d "tipo=DATA ATUAL" \
+  -d "tempo_permitido=2"
+
+
+
+curl -X POST http://siar.capir.ifpi.edu.br/cancelarsolicitacao.php \
+  -H "Cookie: _ga=GA1.1.1352962412.1750985423; _ga_J2S60SKDWH=GS2.1.s1751678354\$o2\$g1\$t1751678453\$j60\$l0\$h0; _ga_LL9FR1PRD8=GS2.1.s1751001722\$o3\$g1\$t1751002260\$j60\$l0\$h0; PHPSESSID=e30f540208a402deaa6e4ebee22d4474" \
+  -d "matricula=2024116BADM0001" \
+  -d "refeicao=ALMOCO" \
+  -d "data=22/07/2025" \
+  -d "limite=09:00:00"

